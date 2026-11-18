@@ -9,7 +9,7 @@ app = Flask(__name__)
 # Customize this information for your college
 # ==========================================
 
-COLLEGE_NAME = "ABC College of Technology"
+COLLEGE_NAME = "Tecnia Institute Of Advanced Studies"
 
 FAQS = [
     {
@@ -18,7 +18,7 @@ FAQS = [
     },
     {
         "keywords": ["courses", "departments", "mca", "bca", "bba", "programs"],
-        "answer": "Our sample college offers MCA, BCA, BBA and other undergraduate and postgraduate programs. Update this list according to your college."
+        "answer": "Our sample college offers MCA, BCA, BBA, MBA, BAJMC and other undergraduate and postgraduate programs."
     },
     {
         "keywords": ["fees", "fee structure", "payment", "scholarship"],
@@ -42,11 +42,11 @@ FAQS = [
     },
     {
         "keywords": ["hostel", "canteen", "wifi", "sports", "transport", "facilities", "laboratory"],
-        "answer": "Campus facilities may include laboratories, library, canteen, sports areas, Wi-Fi, transport and hostel facilities. Please confirm availability with your college."
+        "answer": "Campus facilities may include laboratories, library, canteen, sports areas, Wi-Fi facilities. Please confirm availability with your college."
     },
     {
         "keywords": ["contact", "phone", "email", "address", "location", "office"],
-        "answer": "College: ABC College of Technology\nAddress: Your College Address, Your City\nPhone: +91-00000-00000\nEmail: info@example.com\nReplace these sample details with your actual college information."
+        "answer": "College: Tecnia Institute of Advanced Studies\nAddress: PSP, Institutional Area, Madhuban Chowk, Rohini, New Delhi-110085\nPhone: 27555122/23/24\nEmail: directortias@tecnia.in"
     },
     {
         "keywords": ["holiday", "holidays", "working days", "office hours"],
